@@ -9,7 +9,7 @@ function buildTable(data) {
     tbody.html("");
     // Loop through each object in the data
     data.forEach((dataRow) =>{
-        // Create a variable that will append a row to the table body
+    // Create a variable that will append a row to the table body
         let row = tbody.append("tr");
         // Create function to loop through each field again to set up fo <td> tags
         Object.values(dataRow).forEach((val) => {
@@ -19,14 +19,23 @@ function buildTable(data) {
         );
     });
 }
+function handleClick() {
+    // Grab the datetime value from the filter
+    let date = d3.select("#datetime").property("value");
+    let filteredData = tableData;
 
+    if (date) {
+        filteredData = filteredData.filter(row => row.datetime === date);
+    };
 
+    // Populate table with filtered data
+    buildTable(filteredData);
+}
 
+// "listen" for button clicks
+d3.selectAll("#filter-btn").on("click", handleClick);
 
-
-
-
-
-
+// Build the table when the page loads
+buildTable(tableData);
 
 
