@@ -22,11 +22,13 @@ First, a storyboard was sketched out to plan the layout of the webpage. The stor
 
 
 Figure 1. Storyboarding
-<img src=”Resources/storyboard.png”>
+
+<img src="Resources/storyboard.png" width="50%">
 
 
 Figure 2. Production Page
-<img src=”Resources/pageLayout.png”>
+
+<img src="Resources/pageLayout.png" width="50%">
 
 
 # Using the UFO Sighting Tool
@@ -38,16 +40,20 @@ Follow these instructions to investigate the UFO sighting database.  The screens
   * View the table for the list of sightings returned based on the filter criteria entered
 
 Find the filter
-<img src=”Resources/findFilter.png”>
+
+<img src="Resources/findFilter.png" width="75%">
 
 Filter variable types
-<img src=”Resources/findVariables.png”>
+
+<img src="Resources/findVariables.png" width="25%">
 
 Enter criteria
-<img src=”Resources/enterCriteria.png”>
+
+<img src="Resources/enterCriteria.png" width="25%">
 
 View returned data
-<img src=”Resources/viewData.png”>
+
+<img src="Resources/viewData.png" width="75%">
 
 
 # Summary
