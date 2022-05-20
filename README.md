@@ -18,7 +18,7 @@ The purpose of this project was to construct a web based, dynamic data table of 
 
 ## Process Summary:
 
-First, a storyboard was sketched out to plan the layout of the webpage. The storyboard would provide an idea of what users would see when they view the final product. Next, the data was imported with JavaScript and pointed to the HTML page with the tbody HTML tag using D3. Next, dynamic functionality was built into the table using JavaScript for loops and functions. Next, the HTML file was updated with the data filtering functionality as well as script tags. Finally, the HTML was customized with Bootstrap and CSS to optimize the web page anesthetics. 
+First, a storyboard was sketched out to plan the layout of the webpage. The storyboard would provide an idea of what users would see when they view the final product. Next, the data was imported with JavaScript and pointed to the HTML page with the tbody HTML tag using D3. Next, dynamic functionality was built into the table using JavaScript for loops and functions. Next, the HTML file was updated with the data filtering functionality as well as script tags. Finally, the HTML was customized with Bootstrap and CSS to optimize the web page aesthetics. 
 
 
 Figure 1. Storyboarding
