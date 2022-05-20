@@ -58,8 +58,8 @@ View returned data
 
 # Summary
 
-One drawback of the website is that the information is somewhat limited. Although the layout is clean and aesthetic and the mechanics of filtering the data is very intuitive and user friendly the actual information produced is limited. 
+In summary, this website provides an easy to use, interactive website that allows users to sift through a large amount of data very quickly. Although the layout is clean and aesthetic and the mechanics of filtering the data is very intuitive, one drawback is that the actual information produced is limited. 
 
-Recommendations for further development are as follows. Although filtering the data is relatively simple, it could potentially be improved by adding a ‘search’ button. This may make it more clear to the user when and how the search functionality is initiated. Another improvement could be to enrich the data by providing a link to an article about each sighting if available. Also, the page could be improved by adding download or print functionality so that a user could extract their search results for use outside of the web application. 
+Recommendations for further development are as follows. Although filtering the data is relatively simple, it could potentially be improved by adding a ‘search’ button. This may make it more clear to the user when and how the search functionality is initiated. Another improvement could be to enrich the data by providing a link to an article about each sighting if available. Additionally, the page could be improved by adding download or print functionality so that a user could extract their search results for use outside of the web application. 
 
 
